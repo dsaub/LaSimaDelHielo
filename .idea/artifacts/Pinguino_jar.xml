@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pinguino:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pinguino_jar</output-path>
+    <root id="archive" name="Pinguino.jar">
+      <element id="module-output" name="Pinguino" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../AudioPlayer/out/artifacts/AudioPlayer_jar/AudioPlayer.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
